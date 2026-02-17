@@ -1,4 +1,4 @@
-# Property Tax Analytics — Senior Data Engineer Assignment
+# Property Tax Analytics
 
 ## Overview
 
