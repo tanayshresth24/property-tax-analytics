@@ -261,7 +261,7 @@ Pipeline supports safe reruns through:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 property-tax-analytics/
